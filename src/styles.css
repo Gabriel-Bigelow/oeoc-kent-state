@@ -2,7 +2,7 @@
     background-color: pink;
 	border-right: 0 2px 0 0 solid var(--navy);
 }
-.hero-info .hero-info-block{
+.hero-info .hero-info-block:last-child{
     background-color: pink;
 	border-right: none
 }
