@@ -6,9 +6,9 @@ const divs =
 	)
 for (let div of divs) {
 	div.style.backgroundColor =
-		'red'
+		'green'
 }
 
 console.log(
-	'Script test'
+	'Script test outer file'
 )
