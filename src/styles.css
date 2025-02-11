@@ -1,6 +1,6 @@
 .hero-info .hero-info-block{
     background-color: pink;
-	border-right: 0 2px 0 0 solid var(--navy);
+	border-right: 2px solid var(--navy);
 }
 .hero-info .hero-info-block:last-child{
     background-color: pink;
