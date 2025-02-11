@@ -1,4 +1,4 @@
-body {
-	margin: 20px;
-	background-color: red;
+.hero-info
+	> .hero-info-block {
+	border: 0 2px 0 0 solid var(--navy);
 }
